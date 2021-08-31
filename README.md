@@ -4,9 +4,9 @@
 
 ### Screenshot of deployed app ![Screenshot](/assets/images/screenshot.JPG)
 
-### Connect DB </br> ![Screenshot](/assets/dblink.gif)
+### Connect DB </br> ![Screenshot](/assets/images/dblink.gif)
 
-### Resolving requests </br> ![Screenshot](/assets/insomnia.gif)
+### Resolving requests </br> ![Screenshot](/assets/images/insomnia.gif)
 
 ## Resources used:
 
